@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.ydreawrld.devmap"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "656f3577-9de3-4c53-8e48-60c3378ac4b2"
+      }
+    },
+    "owner": "ydreawrld"
   }
 }
